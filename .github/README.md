@@ -1,7 +1,7 @@
 # demo-springboot
 
 <p align="center">
-  <img alt="demo-springboot" title="demo-springboot" src=".github/logo.png" />
+  <img alt="demo-springboot" title="demo-springboot" src="/.github/logo.png" />
 </p>
 
 <p align="center">
