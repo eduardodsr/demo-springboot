@@ -86,7 +86,7 @@ Depois de conectado, execute consultas SQL no banco.
 Exemplo:
 
 ```sql
-SELECT * FROM DEMO;
+SELECT * FROM demo;
 ```
 
 Isso listará todas as entradas cadastradas na tabela DEMO.
@@ -94,5 +94,5 @@ Isso listará todas as entradas cadastradas na tabela DEMO.
 Caso queira buscar um registro específico, use:
 
 ```sql
-SELECT * FROM DEMO WHERE ID = 1;
+SELECT * FROM demo WHERE ID = 1;
 ```
